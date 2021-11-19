@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\obj\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\obj\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\obj\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\obj\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\obj\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\bin\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.exe
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\bin\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.deps.json
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\bin\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\bin\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\bin\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.dll
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\bin\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.pdb
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\obj\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.dll
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\obj\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.pdb
+C:\Users\Aieos_\Documents\code\TravelTimeCalculatorPractice\TravelTimeCalculatorPractice\obj\Debug\netcoreapp3.1\TravelTimeCalculatorPractice.genruntimeconfig.cache
